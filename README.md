@@ -1,5 +1,3 @@
-# Convoy AI
+# Note
 
-| ![Logo](assets/ConvoyLogoCColor.png) | Convoy AI       |
-| ------------------------------------ | --------------- |
-| Public Github Landing Page           | Busy working... |
+This file is not used, edit [profile/README.md](profile/README.md).

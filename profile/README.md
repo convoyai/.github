@@ -1,5 +1,5 @@
 # Convoy AI
 
-| ![Logo](../assets/ConvoyLogoCColor.png) | Convoy AI       |
-| --------------------------------------- | --------------- |
-| Public Github Profile Page              | Busy working... |
+| ![Logo](../assets/ConvoyLogoCColorSquareSmall.png) | Convoy AI       |
+| -------------------------------------------------- | --------------- |
+| Public Github Profile Page                         | Busy working... |
